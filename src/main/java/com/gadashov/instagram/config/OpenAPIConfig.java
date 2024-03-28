@@ -41,9 +41,9 @@ public class OpenAPIConfig {
                                 .description("Examples for api")
                                 .version("1.0")
                                 .contact(new Contact()
-                                                .name("Ali Gadashov")
-                                                .email("gadashovali13@gmail.com")
-                                                .url("https://github.com/AliGadashov")
+                                                .name("Your name")
+                                                .email("Your email")
+                                                .url("Your URL")
                                 )
                 );
     }
